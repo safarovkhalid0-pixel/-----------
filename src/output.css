@@ -231,8 +231,14 @@
   .mt-100 {
     margin-top: calc(var(--spacing) * 100);
   }
+  .mr-5 {
+    margin-right: calc(var(--spacing) * 5);
+  }
   .mr-10 {
     margin-right: calc(var(--spacing) * 10);
+  }
+  .mr-20 {
+    margin-right: calc(var(--spacing) * 20);
   }
   .mr-30 {
     margin-right: calc(var(--spacing) * 30);
@@ -294,6 +300,9 @@
   .ml-0 {
     margin-left: 0px;
   }
+  .ml-3 {
+    margin-left: calc(var(--spacing) * 3);
+  }
   .ml-5 {
     margin-left: calc(var(--spacing) * 5);
   }
@@ -305,6 +314,12 @@
   }
   .ml-10 {
     margin-left: calc(var(--spacing) * 10);
+  }
+  .ml-12 {
+    margin-left: calc(var(--spacing) * 12);
+  }
+  .ml-13 {
+    margin-left: calc(var(--spacing) * 13);
   }
   .ml-20 {
     margin-left: calc(var(--spacing) * 20);
@@ -452,6 +467,15 @@
   }
   .gap-20 {
     gap: calc(var(--spacing) * 20);
+  }
+  .gap-30 {
+    gap: calc(var(--spacing) * 30);
+  }
+  .gap-40 {
+    gap: calc(var(--spacing) * 40);
+  }
+  .gap-50 {
+    gap: calc(var(--spacing) * 50);
   }
   .rounded-full {
     border-radius: calc(infinity * 1px);
