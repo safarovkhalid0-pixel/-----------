@@ -8,6 +8,7 @@ if (age >= 18 && hasLicense) {
 }
 
 
+
 console.log(`\nTask 22`);
 let isWeekend = false
 let isHoliday = true
